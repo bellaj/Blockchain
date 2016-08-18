@@ -1,0 +1,21 @@
+* Register in CLOUD9 (http://c9.io)
+* create a workspace, use template Ubuntu
+
+
+* sudo apt-get install software-properties-common
+* sudo add-apt-repository -y ppa:ethereum/ethereum
+* sudo apt-get update
+* sudo apt-get install ethereum
+
+* geth account new 
+
+* sudo npm install -g truffle
+
+* git clone https://github.com/ethereum/pyethereum/
+* cd pyethereum
+* sudo python setup.py install
+* sudo pip install eth-testrpc
+
+* testrpc
+
+* open a new terminal screen and work away
