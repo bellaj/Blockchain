@@ -1,0 +1,1 @@
+http://ethereum.stackexchange.com/questions/42/how-can-a-contract-run-itself-at-a-later-time
