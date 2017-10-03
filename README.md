@@ -8,3 +8,5 @@ Fork the repository (here is the guide).
 Clone to your machine git clone https://github.com/YOUR_USERNAME/Blockchain.git
 Make your changes
 Create a pull request
+#other_repos
+https://cdecker.github.io/btcresearch/#2017
