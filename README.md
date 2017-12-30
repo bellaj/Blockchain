@@ -1,7 +1,7 @@
 ![pdf version](https://img.shields.io/bower/v/adminlte.svg)
 ![Blockchain](https://www.digimarc.com/public_images/blockchain-1500x600.jpg)
 
-# Bitcoin_Ethereum_Blockchain_docs
+# Blockchain and cryptocurrency Document Library:
 Collection of useful documents about Bitcoin, Ethereum and other blockchain technologies.
 ## To contribute
 Contribution are always welcome and recommended! Here is how:
