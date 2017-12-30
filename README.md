@@ -11,7 +11,7 @@ Contribution are always welcome and recommended! Here is how:
  * Make your changes
  * Create a pull request
 
-# other_repos
+## Related repositories
 https://cdecker.github.io/btcresearch/#2017
 
 ## Videos:
