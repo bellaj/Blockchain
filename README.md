@@ -1,4 +1,6 @@
 ![pdf version](https://img.shields.io/bower/v/adminlte.svg)
+[[https://www.digimarc.com/public_images/blockchain-1500x600.jpg]]
+
 # Bitcoin_Ethereum_Blockchain_docs
 Collection of useful documents about Bitcoin, Ethereum and other blockchain technologies.
 ## To contribute
