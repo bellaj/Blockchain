@@ -2,7 +2,7 @@
 ![Blockchain](https://www.digimarc.com/public_images/blockchain-1500x600.jpg)
 
 # Blockchain and cryptocurrency Document Library:
-Collection of useful documents about Bitcoin, Ethereum and other blockchain technologies.
+Collection of useful documents about Bitcoin, Ethereum, blockchain technologies and distributed system.
 ## To contribute
 Contribution are always welcome and recommended! Here is how:
 
@@ -17,3 +17,6 @@ https://cdecker.github.io/btcresearch/#2017
 ## Videos:
 Byzantine Paxos
 https://www.youtube.com/watch?v=XnfAZHkyOy4
+
+## Links :
+https://disco.ethz.ch/courses/podc_allstars/
