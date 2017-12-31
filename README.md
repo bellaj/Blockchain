@@ -44,3 +44,6 @@ https://github.com/butor/blackbird/blob/master/README.md
 
 **Cuckoo Cycle** the first graph-theoretic proof-of-work
 https://github.com/tromp/cuckoo
+
+**DeOS** Decentralized Operating System https://github.com/desantisinc/deoscore
+
