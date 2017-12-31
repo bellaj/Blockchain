@@ -25,12 +25,20 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 
 https://disco.ethz.ch/courses/podc_allstars/
 
-Analyzing Cryptocurrency Markets Using Python
+*Analyzing Cryptocurrency Markets Using Python*
 https://blog-patricktriest-com.cdn.ampproject.org/c/s/blog.patricktriest.com/analyzing-cryptocurrencies-python/amp/
 
-Gekko: Define your own trading strategy and Gekko will take care of everything else.
+*Gekko: Define your own trading strategy and Gekko will take care of everything else.*
 https://gekko.wizb.it/
 
-OSTIA : Ostia is a cryptocurrency trading platform that allows you to run algorithmic trading strategies across all major exchanges
+*OSTIA : Ostia is a cryptocurrency trading platform that allows you to run algorithmic trading strategies across all major exchanges*
 https://github.com/adamalawrence/Ostia
 
+*market arbitrage*
+https://data.bitcoinity.org/markets/arbitrage/USD
+
+*Cryptocurrency Analysis with Python*
+https://romanorac.github.io/cryptocurrency/analysis/2017/12/29/cryptocurrency-analysis-with-python-part3.html
+
+*Blackbird Bitcoin Arbitrage: a C++ trading system*
+https://github.com/butor/blackbird/blob/master/README.md
