@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 ## Links :
 
 https://disco.ethz.ch/courses/podc_allstars/
+
 Analyzing Cryptocurrency Markets Using Python
 https://blog-patricktriest-com.cdn.ampproject.org/c/s/blog.patricktriest.com/analyzing-cryptocurrencies-python/amp/
 
