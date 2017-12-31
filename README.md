@@ -11,8 +11,11 @@ Contribution are always welcome and recommended! Here is how:
  * Make your changes
  * Create a pull request
 
-## Related repositories
+## Related repositories and sources
 https://cdecker.github.io/btcresearch/#2017
+
+https://www.linkedin.com/pulse/31-must-read-blockchain-crypto-currency-documents-rohas-nagpal/
+
 
 ## Videos:
 Byzantine Paxos
