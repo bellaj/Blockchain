@@ -20,7 +20,7 @@ https://cdecker.github.io/btcresearch/#2017
 Byzantine Paxos
 https://www.youtube.com/watch?v=XnfAZHkyOy4
 
-## Links :
+## miscellaneous (Links & tools) :
 
 https://disco.ethz.ch/courses/podc_allstars/
 
