@@ -19,4 +19,14 @@ Byzantine Paxos
 https://www.youtube.com/watch?v=XnfAZHkyOy4
 
 ## Links :
+
 https://disco.ethz.ch/courses/podc_allstars/
+Analyzing Cryptocurrency Markets Using Python
+https://blog-patricktriest-com.cdn.ampproject.org/c/s/blog.patricktriest.com/analyzing-cryptocurrencies-python/amp/
+
+Gekko: Define your own trading strategy and Gekko will take care of everything else.
+https://gekko.wizb.it/
+
+OSTIA : Ostia is a cryptocurrency trading platform that allows you to run algorithmic trading strategies across all major exchanges
+https://github.com/adamalawrence/Ostia
+
