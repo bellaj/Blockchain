@@ -12,6 +12,7 @@ Contribution are always welcome and recommended! Here is how:
  * Create a pull request
 
 ## Related repositories and sources
+**Principles of Distributed Computing (lecture collection)** 
 https://cdecker.github.io/btcresearch/#2017
 
 
