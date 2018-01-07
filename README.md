@@ -36,12 +36,10 @@ https://github.com/adamalawrence/Ostia
 **market arbitrage**
 https://data.bitcoinity.org/markets/arbitrage/USD
 
-**Prediction: Bitcoin Price Variation
-**
+**Prediction: Bitcoin Price Variation**
 https://github.com/satvikshetty04/Predicting-Bitcoin-Price-Variations
 
-**Predicting Bitcoin Price Variations using Bayesian Regression
-**
+**Predicting Bitcoin Price Variations using Bayesian Regression**
 https://github.com/intellectape/Predicting-Bitcoin-Price-Variations-using-Bayesian-Regression
 
 **Cryptocurrency Analysis with Python**
