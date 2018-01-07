@@ -12,7 +12,7 @@ Contribution are always welcome and recommended! Here is how:
  * Create a pull request
 
 ## Related repositories and sources
-**Principles of Distributed Computing (lecture collection)** 
+
 https://cdecker.github.io/btcresearch/#2017
 
 
@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 
 ## miscellaneous (Links & tools) :
 
+**Principles of Distributed Computing (lecture collection)** 
 https://disco.ethz.ch/courses/podc_allstars/
 
 **Analyzing Cryptocurrency Markets Using Python**
