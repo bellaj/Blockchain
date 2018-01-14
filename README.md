@@ -55,3 +55,5 @@ https://github.com/tromp/cuckoo
 
 **DeOS** Decentralized Operating System https://github.com/desantisinc/deoscore
 
+**Tribeca** A high frequency, market making cryptocurrency trading platform in node.js
+https://github.com/michaelgrosner/tribeca
