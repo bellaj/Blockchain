@@ -15,7 +15,8 @@ Contribution are always welcome and recommended! Here is how:
 
 https://cdecker.github.io/btcresearch/#2017
 
-
+##  ACADEMIC PUBLICATIONS : Bitcoin, Ethereum, Blockchain
+https://blockchainlibrary.org/category/academic-publications/
 
 ## Videos:
 **Byzantine Paxos**
