@@ -24,9 +24,8 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 
 ## Donation :
 
-    BTC: 1FLctnA5iRqba3cuc1xUACuAaAVWKqjUwr
-    BCH: qp2vp4ev0aygatuv4mnxnhc5vevu5susjsj6f8wwp6
-    ETH: 0xBE5d431e7D2273340F6e76061C05bb42Bc39103d
+    BTC: 1LzZUVcRuRakhd1vPJK4U9DgeYHD9ht1SL
+    ETH: 0xF15b0D353CEB13806D037f5b0165c8480b37e43b
 
 
 ## miscellaneous (Links & tools) :
