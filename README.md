@@ -14,6 +14,9 @@ Contribution are always welcome and recommended! Here is how:
 
 https://cdecker.github.io/btcresearch/#2017
 
+**A list of Ethereum events** :
+https://github.com/genesisdotre/awesome-ethereum-events
+
 ##  ACADEMIC PUBLICATIONS : Bitcoin, Ethereum, Blockchain
 https://blockchainlibrary.org/category/academic-publications/
 
@@ -25,6 +28,7 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 
     BTC: 1LzZUVcRuRakhd1vPJK4U9DgeYHD9ht1SL
     ETH: 0xF15b0D353CEB13806D037f5b0165c8480b37e43b
+
 
 
 ## miscellaneous (Links & tools) :
