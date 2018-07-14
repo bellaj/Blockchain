@@ -20,6 +20,9 @@ https://github.com/genesisdotre/awesome-ethereum-events
 ##  ACADEMIC PUBLICATIONS : Bitcoin, Ethereum, Blockchain
 https://blockchainlibrary.org/category/academic-publications/
 
+##  All about Zero-Knowledge Proofs
+https://zkp.science/
+
 ## Videos:
 **Byzantine Paxos**
 https://www.youtube.com/watch?v=XnfAZHkyOy4
