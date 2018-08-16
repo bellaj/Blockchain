@@ -17,6 +17,9 @@ https://cdecker.github.io/btcresearch/#2017
 **A list of Ethereum events** :
 https://github.com/genesisdotre/awesome-ethereum-events
 
+**A list of Smart contracts Platforms**:
+https://github.com/Overtorment/awesome-smart-contracts
+
 ##  ACADEMIC PUBLICATIONS : Bitcoin, Ethereum, Blockchain
 https://blockchainlibrary.org/category/academic-publications/
 
