@@ -39,6 +39,9 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 
 ## miscellaneous (Links & tools) :
 
+**A curated list of awesome Ethereum security references**
+https://github.com/trailofbits/awesome-ethereum-security
+
 **Principles of Distributed Computing (lecture collection)** 
 https://disco.ethz.ch/courses/podc_allstars/
 
