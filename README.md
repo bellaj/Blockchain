@@ -42,6 +42,9 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 **A curated list of awesome Ethereum security references**
 https://github.com/trailofbits/awesome-ethereum-security
 
+**Azure Blockchain hands-on lab step-by-step**
+https://github.com/Microsoft/MCW-Azure-Blockchain/tree/master/Hands-on%20lab
+
 **Principles of Distributed Computing (lecture collection)** 
 https://disco.ethz.ch/courses/podc_allstars/
 
