@@ -14,6 +14,10 @@ Contribution are always welcome and recommended! Here is how:
 
 https://cdecker.github.io/btcresearch/#2017
 
+**Beigepaper**
+A rewrite of the Yellowpaper in non-Yellowpaper syntax.
+https://github.com/chronaeon/beigepaper
+
 **A list of Ethereum events** :
 https://github.com/genesisdotre/awesome-ethereum-events
 
