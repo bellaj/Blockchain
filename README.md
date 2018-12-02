@@ -12,7 +12,7 @@ Contribution are always welcome and recommended! Here is how:
 
 ## Related repositories and sources
 
-**academic publications about Bitcoin and Blockchain technology**
+**Academic publications about Bitcoin and Blockchain technology**
 https://cdecker.github.io/btcresearch/#2017
 
 **Evolution of Smart Contract Security in the Ethereum Ecosystem**
