@@ -12,14 +12,11 @@ Contribution are always welcome and recommended! Here is how:
 
 ## Related repositories and sources
 
+**academic publications about Bitcoin and Blockchain technology**
 https://cdecker.github.io/btcresearch/#2017
 
 **Evolution of Smart Contract Security in the Ethereum Ecosystem**
 https://blog.zeppelinos.org/evolution-of-smart-contract-security-in-the-ethereum-ecosystem/
-
-**Beigepaper**
-A rewrite of the Yellowpaper in non-Yellowpaper syntax.
-https://github.com/chronaeon/beigepaper
 
 **A list of Ethereum events** :
 https://github.com/genesisdotre/awesome-ethereum-events
@@ -45,6 +42,9 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 
 
 ## miscellaneous (Links & tools) :
+**Beigepaper**
+A rewrite of the Yellowpaper in non-Yellowpaper syntax.
+https://github.com/chronaeon/beigepaper
 
 **A curated list of awesome Ethereum security references**
 https://github.com/trailofbits/awesome-ethereum-security
