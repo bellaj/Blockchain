@@ -51,6 +51,8 @@ https://www.youtube.com/watch?v=XnfAZHkyOy4
 
 
 ## miscellaneous (Links & tools) :
+**Ethereum conferences**
+https://davidburela.wordpress.com/category/blockchain/
 **Beigepaper**
 A rewrite of the Yellowpaper in non-Yellowpaper syntax.
 https://github.com/chronaeon/beigepaper
