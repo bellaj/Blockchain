@@ -36,6 +36,9 @@ https://blockchainlibrary.org/category/academic-publications/
 ##  All about Zero-Knowledge Proofs
 https://zkp.science/
 
+## Ethereum forum for researchers
+https://ethresear.ch
+
 ## Videos:
 **Byzantine Paxos**
 https://www.youtube.com/watch?v=XnfAZHkyOy4
