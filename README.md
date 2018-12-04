@@ -1,7 +1,7 @@
 
 ![http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html](https://thumbs.gfycat.com/SameConsciousAvians-size_restricted.gif)
 
-# Blockchain and cryptocurrency Document Library:
+# Blockchain and cryptocurrency Library:
 Collection of useful documents about Bitcoin, Ethereum, blockchain technologies and distributed system.
 ## To contribute
 Contribution are always welcome and recommended! Here is how:
