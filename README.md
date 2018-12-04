@@ -1,4 +1,5 @@
-![Blockchain](https://www.digimarc.com/public_images/blockchain-1500x600.jpg)
+
+![http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html](https://thumbs.gfycat.com/SameConsciousAvians-size_restricted.gif)
 
 # Blockchain and cryptocurrency Document Library:
 Collection of useful documents about Bitcoin, Ethereum, blockchain technologies and distributed system.
