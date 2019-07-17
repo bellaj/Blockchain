@@ -18,6 +18,9 @@ Blockchain By Example =>https://www.packtpub.com/big-data-and-business-intellige
 
 
 ## Related repositories and sources
+**Excellent serie of Bitcoin article for developers**
+
+https://davidederosa.com/basic-blockchain-programming/
 
 **Academic publications about Bitcoin and Blockchain technology**
 https://cdecker.github.io/btcresearch/#2017
