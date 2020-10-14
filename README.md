@@ -18,6 +18,9 @@ Blockchain By Example =>https://www.packtpub.com/big-data-and-business-intellige
 
 
 ## Related repositories and sources
+
+**Intro to consensus mechanisms**
+https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols<br>
 **Excellent serie of Bitcoin article for developers**
 
 https://davidederosa.com/basic-blockchain-programming/
