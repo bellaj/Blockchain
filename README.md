@@ -1,6 +1,7 @@
 
-![http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html](https://thumbs.gfycat.com/SameConsciousAvians-size_restricted.gif)
-
+<a href="https://www.linkedin.com/in/bellajbadr/">
+    <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Endorse me on LinkedIn" /></a>
+    
 # Blockchain and cryptocurrency Library:
 Collection of useful documents about Bitcoin, Ethereum, blockchain technologies and distributed system.
 ## To contribute
